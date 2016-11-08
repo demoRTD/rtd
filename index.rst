@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-EcholoN Dokumentation
+Prog Dokumentation
 ==========================
 
 Inhalt:
@@ -11,6 +11,6 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
     
-   source/echolon
-   source/launcher
-   source/esmgmt
+   source/prog
+   source/prog2
+   source/prog3
