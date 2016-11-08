@@ -29,8 +29,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'EcholoN Dokumentation'
-copyright = '2016, mIT-solutions'
+project = 'Prog Dokumentation'
+copyright = '2016, SomeComp'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
